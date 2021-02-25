@@ -1,0 +1,26 @@
+body {
+    background-color: bisque;
+    margin-left: 2vw;
+    margin-right: 2vw;
+}
+
+h1, h2 {
+    font-family: 'Lato', sans-serif;
+    font-style: italic;
+}
+
+p, li {
+    font-family: 'Shippori Mincho B1', serif;
+}
+
+p {
+    font-size: 18px;
+}
+
+li {
+    font-size: 16px;
+}
+
+img {
+    outline-style: dashed;
+}
